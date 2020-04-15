@@ -60,7 +60,7 @@
     }
 
     .card {
-        height: 340px;
+        height: 350px;
         width: 45%;
         margin-top: -70px;
     }

@@ -155,5 +155,4 @@
         background: transparent; /* опционально */
     }
 
-
 </style>
