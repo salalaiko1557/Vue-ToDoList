@@ -89,7 +89,7 @@
         font-size: 35px !important;
         margin-top: -35px;
         margin-right: 16px;
-        color: #352ccc !important;
+        color: #00cc19 !important;
     }
 
     @media screen and (max-width: 1000px) {
