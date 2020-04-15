@@ -21,6 +21,8 @@
     "vuex-persistedstate": "^3.0.1"
   },
   "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.13.0",
+    "@mdi/font": "^5.0.45",
     "@vue/cli-plugin-babel": "^4.2.0",
     "@vue/cli-plugin-eslint": "^4.2.0",
     "@vue/cli-plugin-router": "^4.2.0",

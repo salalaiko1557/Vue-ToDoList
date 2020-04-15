@@ -4,7 +4,7 @@
         <div class="block">
             <input class="input" v-model="name" placeholder="Введите никнейм">
             <v-btn @click="api" class="search" color="rgba(0, 0, 0, 1)" fab x-small blue>
-                <v-icon color="rgba(255, 255, 255, 1)">search</v-icon>
+                <v-icon color="rgba(255, 255, 255, 1)" >mdi-magnify</v-icon>
             </v-btn>
         </div>
         <span style="margin-left: 20px; color: rgba(255,45,12,0.42);">{{error}}</span>
@@ -46,6 +46,9 @@
         name: "Github",
         components: {
             Header
+        },
+        icons: {
+            iconfont: 'mdi', // default - only for display purposes
         },
 
         data: () => {
